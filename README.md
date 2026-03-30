@@ -12,7 +12,4 @@
 
 ## 📈 GitHub Stats
 
-![KamiJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamiJeong&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiJeong&layout=compact&theme=tokyonight)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=KamiJeong&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
